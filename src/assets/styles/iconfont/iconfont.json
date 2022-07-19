@@ -1,0 +1,58 @@
+{
+  "id": "3236603",
+  "name": "代理中心",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11372703",
+      "name": "首页",
+      "font_class": "shouye1",
+      "unicode": "e8b9",
+      "unicode_decimal": 59577
+    },
+    {
+      "icon_id": "28166316",
+      "name": "wenangongju",
+      "font_class": "wenangongju",
+      "unicode": "e771",
+      "unicode_decimal": 59249
+    },
+    {
+      "icon_id": "28166317",
+      "name": "shouye",
+      "font_class": "shouye",
+      "unicode": "e772",
+      "unicode_decimal": 59250
+    },
+    {
+      "icon_id": "28166318",
+      "name": "dingdanguanli",
+      "font_class": "dingdanguanli",
+      "unicode": "e773",
+      "unicode_decimal": 59251
+    },
+    {
+      "icon_id": "28166319",
+      "name": "gongdanguanli",
+      "font_class": "gongdanguanli",
+      "unicode": "e774",
+      "unicode_decimal": 59252
+    },
+    {
+      "icon_id": "28166320",
+      "name": "zixunfuwu",
+      "font_class": "zixunfuwu",
+      "unicode": "e775",
+      "unicode_decimal": 59253
+    },
+    {
+      "icon_id": "28166321",
+      "name": "kehuguanli",
+      "font_class": "kehuguanli",
+      "unicode": "e776",
+      "unicode_decimal": 59254
+    }
+  ]
+}

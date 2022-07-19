@@ -1,9 +1,13 @@
 <template>
   <div id="nav">
     <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/about">About</router-link> |
+    <router-link to="/draggable">Draggable</router-link> |
+    <router-link to="/mapVuex">mapVuex</router-link> | 
+     <router-link to="/my">个人中心</router-link> | 
+     <router-link to="/pinia">pinia</router-link>
   </div>
-  <router-view/>
+  <router-view />
 </template>
 
 <style lang="scss">
