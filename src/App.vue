@@ -5,7 +5,8 @@
     <router-link to="/draggable">Draggable</router-link> |
     <router-link to="/mapVuex">mapVuex</router-link> | 
      <router-link to="/my">个人中心</router-link> | 
-     <router-link to="/pinia">pinia</router-link>
+     <router-link to="/pinia">pinia</router-link> |
+     <router-link to="/icon">图标</router-link> |
   </div>
   <router-view />
 </template>

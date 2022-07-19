@@ -1,16 +1,16 @@
-# vue3-project-function
+# vue3-init项目初始化
 
-## Project setup
+## 下载资源
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包
 ```
 npm run build
 ```

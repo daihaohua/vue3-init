@@ -5,4 +5,13 @@ export default [{
   meta: {
     outMenu: true
   }
-}]
+},
+{
+  path: '/icon',
+  name: 'Icon',
+  component: () => import('@/views/Icon.vue'),
+  meta: {
+    outMenu: true
+  }
+}
+]

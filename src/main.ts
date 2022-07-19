@@ -2,6 +2,7 @@ import { createApp } from 'vue'
 import App from './App.vue'
 import router from './router'
 import store from './store'
+import  '@/svg/index'
 import '@/assets/styles/iconfont/iconfont.css'
 import comment from '@/components/comment/index';
 import { createPinia } from 'pinia'
